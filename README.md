@@ -1,4 +1,4 @@
-# Keyboardio Preonic - ZMK Firmware Configuration
+# Keyboardio sPreonic - ZMK Firmware Configuration
 
 <p align="center">
   <a href="https://github.com/samake-2T2/keyboardio-preonic-zmk-config/releases/tag/v2.0.5"><img src="https://img.shields.io/badge/Release-v2.0.5-blue.svg?style=for-the-badge" alt="Latest Release v2.0.5"></a>
